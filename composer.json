@@ -1,0 +1,9 @@
+{
+    "require": {
+        "matyhtf/swoole_framework": "dev-master"
+    },
+    "repositories": [
+	{"type": "composer", "url": "https://packagist.phpcomposer.com"},	
+        { "packagist": false }
+    ]
+}
